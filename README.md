@@ -11,10 +11,10 @@
 <li> ⚡  Fun fact: I play computer games and fond of watching documentories. </li>
 </ul>
 </td>
-<td valign="top" width="50%">
+<!-- <td valign="top" width="50%">
 
 ![Sumaisa's github stats](https://github-readme-stats.vercel.app/api?username=sumaisa-mou&count_private=true&theme=buefy&hide=stars,issues)
-</td>
+</td> -->
 </table>
 
 ### Top Technologies
